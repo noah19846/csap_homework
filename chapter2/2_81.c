@@ -1,4 +1,3 @@
-#include <stdio.h>
 #include <assert.h>
 
 int get_k_0(int k)
